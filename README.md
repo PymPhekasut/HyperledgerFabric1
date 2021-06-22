@@ -5,7 +5,7 @@ This project is to implement between Blockchain and API for data storage. Hyperl
 
 Installation:
 
-'''
+```
 sudo apt-get update
-'''
+```
 
